@@ -15,4 +15,4 @@ In general: I want to build a robot that moves a leg on a chosen voice command.\
  Additional?\
  
  -Maybe see if I can make the mechanism do other things, such as light a built-in bulb blink\
-
+ -Attach multiple legs and make a robot move on voice!
