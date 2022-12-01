@@ -12,6 +12,9 @@ DONE-Figure out how to connect the speech recognizer with Arduino NANO directly
 -Look up examples of code to make such a mechanism move the leg by default automatically once something is said to the voice recognizer\
   (and again, understand what each line of code stands for)\
   
+  
+  At the end, I was able to connect Tower Pro sg92r motor + Arduino Nano + Grove Speech Recognizer using wires and a breadboard. For this demo, the motor engine moves one way when I say "Start" and the other way when I say "Stop". The code also prints the number of each voice command in the serial monitor along with the command itself for better tracking.
+  
   Video Demo of the main project complete:
   
   
