@@ -27,4 +27,4 @@ https://user-images.githubusercontent.com/68671029/205173271-86664910-19fa-47bb-
  Additional?\
  
  -Maybe see if I can make the mechanism do other things, such as light a built-in bulb blink\
- -Attach multiple legs and make a robot move on voice!
+ -Attach multiple legs and make a robot move on voice (Arduino-Voice-Recognition-Project 2.0)!
